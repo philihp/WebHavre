@@ -1,0 +1,178 @@
+turn tiles:
+
+wood/fish (interest)
+coin/iron
+grain/fish
+wood/cattle
+wood/coin
+fish/clay
+wood/clay
+
+colors: purple, red, white, green, blue
+
+turn overview:
+1: supply: place your ship piece on the next supply space. place 2 different goods/francs shown on the offer spaces
+2: main action, choose either:
+   a: take all goods/francs from one offer space
+   b: move your person to a new building (e.g. to build new buildings).
+
+additional actions:
+buy: buy buildings and ships at any time during your turn
+sell: sell buildings and ships for half face value at any time during the game
+repay loans: return loan cards for 5 francs each at any time during the game
+
+loans:
+a loan is -7 points, gives you 4 francs, and must be repaid with 5 francs.
+you can only take a loan when something requires you to pay interest, or to pay for food during a harvest.
+
+harvest schedules:
+
+one player (shortened)
+1: harvest, 10 food, build a building, 4-value wood ship
+2: harvest, 20 food, build a building, 10-value iron ship
+3: harvest, 30 food, build a building, 20-value steel ship
+4: no harvest, 35 food, 30-value luxury ship
+
+one player (standard)
+1: harvest, 5 food, draw a special, 2-value wood ship
+2: harvest, 10 food, build a building, 4-value wood ship
+3: harvest, 15 food, draw a special, 6-value iron ship
+4: harvest, 20 food, build a building, 10-value iron ship
+5: harvest, 25 food, draw a special, 16-value steel ship
+6: harvest, 30 food, build a building, 20-value steel ship
+7: no harvest, 35 food, 30-value luxury ship
+
+two player (shortened)
+1: harvest, 4 food, build a building, 2-value wood ship
+2: harvest, 7 food, 4-value wood ship
+3: harvest, 9 food, build a building, 6-value wood ship
+4: harvest, 13 food, 6-value iron ship
+5: harvest, 15 food, build a building, 8-value iron ship
+6: harvest, 17 food, 16-value steel ship
+7: harvest, 18 food, build a building, 20-value steel ship
+8: ho harvest, 20 food, 30-value luxury ship
+
+two player (standard)
+1: harvest, 3 food, 2-value wood ship
+2: harvest, 4 food, build a building, 2-value wood ship
+3: harvest, 5 food, draw a special, 4-value wood ship
+4: harvest, 7 food, 4-value wood ship
+5: harvest, 9 food, build a building, 6-value wood ship
+6: harvest, 11 food, draw a special, 4-value iron ship
+7: harvest, 13 food, 6-value iron ship
+8: harvest, 15 food, build a building, 8-value iron ship
+9: harvest, 16 food, draw a special, 10-value iron ship
+10: harvest, 17 food, 16-value steel ship
+11: harvest, 18 food, build a building, 20-value steel ship
+12: harvest, 19 food, draw a special, 24-value steel ship
+13: harvest, 20 food, 34-value luxury ship
+14: no harvest, 20 food, 30-value luxury ship
+
+three player (shortened)
+1: no harvest, 2 food, 2-value wood ship
+2: harvest, 2 food, 2-value wood ship
+3: harvest, 3 food, build a building, 2-value wood ship
+4: harvest, 4 food, 4-value wood ship
+5: no harvest, 5 food, 2-value iron ship
+6: harvest, 6 food, build a building, 6-value wood ship
+7: harvest, 8 food, 6-value iron ship
+8: harvest, 9 food, 8-value iron ship
+9: no harvest, 10 food, build a building, 10-value steel ship
+10: harvest, 12 food, 16-value steel ship
+11: no harvest, 14 food, 38-value luxury ship
+12: no harvest, 15 food, 30-value luxury ship
+
+three players (standard)
+1: no harvest, 2 food, 2-value wood ship
+2: harvest, 2 food, 2-value wood ship
+3: harvest, 3 food, build a building, 2-value wood ship
+4: harvest, 3 food, draw a special, 4-value wood ship
+5: harvest, 4 food, 4-value wood ship
+6: no harvest, 5 food, 2-value iron ship
+7: harvest, 6 food, build a building, 6-value wood ship
+8: harvest, 7 food, draw a special, 4-value iron ship
+9: harvest, 8 food, 6-value iron ship
+10: harvest, 9 food, 8-value iron ship
+11: no harvest, 10 food, build a building, 10-value iron ship
+12: harvest, 11 food, draw a special, 10-value iron ship
+13: harvest, 12 food, 16-value steel ship
+14: harvest, 13 food, build a building, 20-value steel ship
+15: harvest, 14 food, draw a special, 24-value steel ship
+16: no harvest, 14 food, 38-value luxury ship
+17: harvest, 15 food, 34-value luxury ship
+18: no harvest, 15 food, 30-value luxury ship
+
+four players (shortened)
+1: harvest, 1 food, 2-value wood ship
+2: harvest, 1 food, 2-value wood ship
+3: harvest, 2 food, build a building, 4-value wood ship
+4: no harvest, 3 food, 2-value iron ship
+5: harvest, 3 food, build a building, 6-value wood ship
+6: no harvest, 4 food, 6-value wood ship
+7: harvest, 5 food, build a building, 6-value iron ship
+8: harvest, 7 food, build a building, 10-value iron ship
+9: no harvest, 9 food, 12-value iron ship
+10: harvest, 10 food, build a building, 20-value steel ship
+11: harvest, 11 food, 34-value luxury ship
+12: no harvest, 11 food, 30-value luxury ship
+
+four players (standard)
+1: harvest, 1 food, 2-value wood ship
+2: harvest, 1 food, 2-value wood ship
+3: no harvest, 2 food, 2-value wood ship
+4: harvest, 2 food, build a building, 4-value wood ship
+5: harvest, 2 food, draw a special, 4-value wood ship
+6: no harvest, 3 food, 2-value iron ship
+7: harvest, 3 food, build a building, 6-value wood ship
+8: harvest, 4 food, draw a special, 4-value iron ship
+9: no harvest, 4 food, 6-value wood ship
+10: harvest, 5 food, build a building, 6-value iron ship
+11: harvest, 5 food, draw a special, 8-value iron ship
+12: no harvest, 6 food, 10-value steel ship
+13: harvest, 7 food, build a building, 10-value iron ship
+14: harvest, 8 food, draw a special, 16-value steel ship
+15: no harvest, 9 food, 12-value iron ship
+16: harvest, 10 food, build a building, 20-value steel ship
+17: harvest, 10 food, draw a special, 24-value steel ship
+18: no harvest, 11 food, 38-value luxury ship
+19: harvest, 11 food, 34-value luxury ship
+20: no harvest, 11 food, 30-value luxury ship
+
+five players (shortened)
+1: harvest, 0 food, 2-value wood ship
+2: harvest, 1 food, 2-value wood ship
+3: no harvest, 1 food, 2-value wood ship
+4: harvest, 1 food, build a building, 4-value wood ship
+5: no harvest, 2 food, 2-value iron ship
+6: harvest, 2 food, build a building, 6-value wood ship
+7: no harvest, 2 food, 6-value wood ship
+8: harvest, 3 food, build a building, 6-value iron ship
+9: no harvest, 3 food, 10-value steel ship
+10: harvest, 4 food, build a building, 10-value iron ship
+11: no harvest, 4 food, 12-value iron ship
+12: harvest, 5 food, build a building, 20-value steel ship
+13: no harvest, 5 food, 38-value luxury ship
+14: harvest, 6 food, 34-value luxury ship
+15: no harvest, 6 food, 30-value luxury ship
+
+five players (standard)
+1: harvest, 0 food, 2-value wood ship
+2: harvest, 1 food, 2-value wood ship
+3: no harvest, 1 food, 2-value wood ship
+4: harvest, 1 food, build a building, 4-value wood ship
+5: harvest, 1 food, draw a special, 4-value wood ship
+6: no harvest, 2 food, 2-value iron ship
+7: harvest, 2 food, build a building, 6-value wood hsip
+8: harvest, 2 food, draw a special, 4-value iron ship
+9: no harvest, 2 food, 6-value wood ship
+10: harvest, 3 food, build a building, 6-value iron ship
+11: harvest, 3 food, draw a special, 8-value iron ship
+12: no harvest, 3 food, 10-value steel ship
+13: harvest, 4 food, build a building, 10-value iron ship
+14: harvest, 4 food, draw a special, 16-value steel ship
+15: no harvest, 4 food, 12-value iron ship
+16: harvest, 5 food, build a building, 20-value steel ship
+17: harvest, 5 food, draw a special, 24-value steel ship
+18: no harvest, 5 food, 38-value luxury ship
+19: harvest, 6 food, 34-value luxury ship
+20: no harvest, 6 food, 30-value luxury ship  
