@@ -1,0 +1,10 @@
+b1: 4-value, no entry, hammer, house, not buildable, building firm, build 1 building
+b2: 6-value, 1f entry, hammer, house, not buildable, building firm, build 1 building
+b3: 8-value, 2f entry, hammer, industry, not buildable, construction firm, build 1 or 2 buildings
+01: 6-value, 2f/1c entry, 2 wood, marketplace, take 2 standard goods (including hides and coal) +1 additional different good per house. look at the top 2 special buildings and return them in any order.
+02: 14-value, no entry, industry, 1 clay 1 iron, sawmill, build 1 building that requires wood for building for 1 fewer wood
+03: 10-value, no entry, fishing, house, 1 wood 1 clay, fishery, +3 fish +1 fish per fishing.
+04: 8-value, 1f entry, hammer, house, 3 wood, joinery, 1/2/3 wood for 5/6/7 coins
+05: 8-value, 1f entry, house, 2 clay, bakehouse, grain+(1/2)energy --> bread+(1/2)coin
+06: 8-value, 1f entry, hammer, fishing, office, 3 wood 1 clay, hardware store, +1 wood +1 brick +1 iron
+  
